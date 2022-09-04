@@ -1,0 +1,16 @@
+D:\Projects\Console_DotnetMenu\obj\Debug\net5.0\Console_DotnetApplication.csproj.AssemblyReference.cache
+D:\Projects\Console_DotnetMenu\obj\Debug\net5.0\Console_DotnetApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Console_DotnetMenu\obj\Debug\net5.0\Console_DotnetApplication.AssemblyInfoInputs.cache
+D:\Projects\Console_DotnetMenu\obj\Debug\net5.0\Console_DotnetApplication.AssemblyInfo.cs
+D:\Projects\Console_DotnetMenu\obj\Debug\net5.0\Console_DotnetApplication.csproj.CoreCompileInputs.cache
+D:\Projects\Console_DotnetMenu\bin\Debug\net5.0\Console_DotnetApplication.exe
+D:\Projects\Console_DotnetMenu\bin\Debug\net5.0\Console_DotnetApplication.deps.json
+D:\Projects\Console_DotnetMenu\bin\Debug\net5.0\Console_DotnetApplication.runtimeconfig.json
+D:\Projects\Console_DotnetMenu\bin\Debug\net5.0\Console_DotnetApplication.runtimeconfig.dev.json
+D:\Projects\Console_DotnetMenu\bin\Debug\net5.0\Console_DotnetApplication.dll
+D:\Projects\Console_DotnetMenu\bin\Debug\net5.0\Console_DotnetApplication.pdb
+D:\Projects\Console_DotnetMenu\obj\Debug\net5.0\Console_DotnetApplication.dll
+D:\Projects\Console_DotnetMenu\obj\Debug\net5.0\refint\Console_DotnetApplication.dll
+D:\Projects\Console_DotnetMenu\obj\Debug\net5.0\Console_DotnetApplication.pdb
+D:\Projects\Console_DotnetMenu\obj\Debug\net5.0\Console_DotnetApplication.genruntimeconfig.cache
+D:\Projects\Console_DotnetMenu\obj\Debug\net5.0\ref\Console_DotnetApplication.dll
